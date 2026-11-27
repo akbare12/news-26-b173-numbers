@@ -47,6 +47,16 @@ python3 main.py           # copies entry.png to out/entry.png
 
 Verified: stdlib-only venv simulation passes (exit 0, identical sha256),
 1024×1024, 50 stories, 12 map pins, 37 ALSO items, 7-item DATE CHECK.
+entry.png sha256: 08a6b3a60ee25acfacc33825ca980bbd28ca58f14646c6baa03b576711dbf7a8
+(180,398 bytes; deterministic re-render, same SHA twice).
+Ronde 3 (27 Nov): 3 item ALSO duplikat diganti — "Case 4000 is Netanyahu's
+only bribery charge" → "Iraq closes two Kurdistan border crossings with
+Syria, Iran" (Reuters 26 Nov); "Iskander-M, Zircon and S-400 missiles used
+in Kyiv attack" → "Serbia calls presidential election for 27 December"
+(Reuters/AP 26 Nov); "Two of 7 hurt in Kyiv mall strike seriously injured"
+→ "UK signs £8bn Babcock deal for nuclear submarines" (Reuters 26 Nov).
+Audit-duplikat sendiri: 0 duplikat baru (2 flag token-script hanya item lama
+yang diizinkan: Philadelphia sub-fakta hero + German plot March).
 Layout V22: masthead / DATE CHECK strip / Macy's banner hero / Hormuz +
 tariffs side by side / 10 cards 2×5 / world map + key / ALSO 3 columns /
 sources footer. Art is drawn on separate layers clipped to its own box,
